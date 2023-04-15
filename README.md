@@ -8,9 +8,9 @@
 ONNXに変換したモデルも同梱しています。<br>
 変換自体を試したい方はColaboratoryで[LDC-Convert2ONNX.ipynb](LDC-Convert2ONNX.ipynb)を使用ください。<br>
 
-<img src="https://user-images.githubusercontent.com/37477845/232208727-ac5e23cb-db96-4790-88d2-945f4912aef3.jpg" loading="lazy" width="300px">　
-<img src="https://user-images.githubusercontent.com/37477845/232208729-1aef71fb-55f2-493b-87af-6a6823022d26.png" loading="lazy" width="300px">　
-<img src="https://user-images.githubusercontent.com/37477845/232208735-7923d7a6-833f-426f-b116-9e2296ba0c5b.png" loading="lazy" width="300px">　
+<img src="https://user-images.githubusercontent.com/37477845/232208727-ac5e23cb-db96-4790-88d2-945f4912aef3.jpg" loading="lazy" width="250px">　
+<img src="https://user-images.githubusercontent.com/37477845/232208729-1aef71fb-55f2-493b-87af-6a6823022d26.png" loading="lazy" width="250px">　
+<img src="https://user-images.githubusercontent.com/37477845/232208735-7923d7a6-833f-426f-b116-9e2296ba0c5b.png" loading="lazy" width="250px">　
 <br>
 1枚目：元画像　2枚目：Fuse画像(LDC_3840x2160.onnx使用)　3枚目：Average画像(LDC_3840x2160.onnx使用)
 
