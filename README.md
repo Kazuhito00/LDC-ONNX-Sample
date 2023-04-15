@@ -43,7 +43,7 @@ python demo_onnx.py
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-FLW-Net-onnx2tf-sample is under [MIT License](LICENSE).
+LDC-ONNX-Sample is under [MIT License](LICENSE).
 
 # License(Movie)
 サンプル動画は[NHKクリエイティブ・ライブラリー](https://www.nhk.or.jp/archives/creative/)の[イギリス オックスフォードのクライスト・チャーチ学生寮外観](https://www2.nhk.or.jp/archives/movies/?id=D0002011220_00000&ref=search)を使用しています。
