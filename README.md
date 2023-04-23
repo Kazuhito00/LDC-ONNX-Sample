@@ -1,8 +1,9 @@
+<!--
 > **Note**<br>
 > 　ライセンスは以下Issueで問い合わせ中です。<br>
 > 　このリポジトリのライセンスもIssue回答結果に従う予定です。<br>
 > 　https://github.com/xavysp/LDC/issues/12
-
+-->
 # LDC-ONNX-Sample
 [LDC: Lightweight Dense CNN for Edge Detection](https://github.com/xavysp/LDC)のPythonでのONNX推論サンプルです。<br>
 ONNXに変換したモデルも同梱しています。<br>
